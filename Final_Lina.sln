@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Final_Lina", "Final_Lina.vcxproj", "{3C215330-4712-43E2-B27E-5F5426935C0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Final_Lina_Setup", "..\Final_Lina_Setup\Final_Lina_Setup.vdproj", "{71C525C4-C32A-4419-846B-C5E88C838274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Debug|x64.ActiveCfg = Debug|x64
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Debug|x64.Build.0 = Debug|x64
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Debug|x86.Build.0 = Debug|Win32
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Release|x64.ActiveCfg = Release|x64
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Release|x64.Build.0 = Release|x64
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Release|x86.ActiveCfg = Release|Win32
+		{3C215330-4712-43E2-B27E-5F5426935C0F}.Release|x86.Build.0 = Release|Win32
+		{71C525C4-C32A-4419-846B-C5E88C838274}.Debug|x64.ActiveCfg = Debug
+		{71C525C4-C32A-4419-846B-C5E88C838274}.Debug|x86.ActiveCfg = Debug
+		{71C525C4-C32A-4419-846B-C5E88C838274}.Release|x64.ActiveCfg = Release
+		{71C525C4-C32A-4419-846B-C5E88C838274}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC7F082-1EB1-4AF1-A75C-C19FA886F46A}
+	EndGlobalSection
+EndGlobal
